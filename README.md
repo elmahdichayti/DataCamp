@@ -1,6 +1,6 @@
-# RAMP starting kit on Imbalance prediction
+# RAMP starting kit on Electric grid imbalances
 
-Grid electricity imbalance (usually referred to as **imbalance**) is an essential key performance indicator (KPI) for any grid supervisor. They need to constantly forecast the projected imabalance, as accurately as possible, to better adjust their responses.
+Grid electricity imbalance (usually referred to as **imbalance**) is an essential key performance indicator (KPI) for any electric grid supervisor. They need to constantly forecast the projected imabalance, as accurately as possible, to better adjust their responses.
 
 Authors: Aamr EL KAZDADI -- Ramzi MISSAOUI -- Soufiane MOUTEI -- Ahmed EL ALAOUI TALIBI -- El Mahdi CHAYTI -- Mohammed BARRAHMA TLEMCANI
 
